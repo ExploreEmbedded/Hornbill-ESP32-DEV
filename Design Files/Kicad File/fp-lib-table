@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name EE)(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty")(options "")(descr ""))
+  (lib (name ESP32)(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty\\Z_ESP32.pretty")(options "")(descr ""))
+  (lib (name JST)(type KiCad)(uri C:\KiCad\share\library\Walter\w_conn_jst-ph.pretty)(options "")(descr ""))
+  (lib (name Switch)(type KiCad)(uri C:\KiCad\share\library\w_switch.pretty)(options "")(descr ""))
+  (lib (name "walter logo")(type KiCad)(uri C:\KiCad\share\library\w_logo.pretty)(options "")(descr ""))
+  (lib (name "pin socket")(type KiCad)(uri C:\KiCad\share\library\w_pin_strip.pretty)(options "")(descr ""))
+  (lib (name Jumper)(type KiCad)(uri C:\Users\exploreembedded\Downloads\mod_details\w_details.pretty)(options "")(descr ""))
+  (lib (name "SMD tactile")(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty\\4pinsmdswitch.pretty")(options "")(descr ""))
+)
