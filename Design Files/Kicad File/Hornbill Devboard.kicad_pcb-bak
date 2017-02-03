@@ -2,11 +2,11 @@
 
   (general
     (links 130)
-    (no_connects 1)
+    (no_connects 0)
     (area 77.267999 67.234999 102.818001 128.218001)
     (thickness 1.6)
     (drawings 62)
-    (tracks 957)
+    (tracks 962)
     (zones 0)
     (modules 53)
     (nets 72)
@@ -37,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 0.2)
+    (last_trace_width 0.3)
     (user_trace_width 0.15)
     (user_trace_width 0.2)
     (user_trace_width 0.3)
@@ -2702,6 +2702,11 @@
   (segment (start 96.52 70.866) (end 96.901 70.866) (width 0.25) (layer F.Cu) (net 1) (tstamp 5881FFAC))
   (segment (start 90.632925 71.419075) (end 91.186 70.866) (width 0.25) (layer F.Cu) (net 1) (tstamp 5881FC96))
   (segment (start 89.951121 71.419075) (end 89.916 71.419075) (width 0.25) (layer F.Cu) (net 1) (tstamp 58413892))
+  (segment (start 98.437 80.264) (end 98.437 80.657) (width 0.25) (layer F.Cu) (net 2) (status C00000))
+  (segment (start 98.437 80.657) (end 99.2505 81.4705) (width 0.3) (layer F.Cu) (net 2) (tstamp 589421E7) (status 400000))
+  (segment (start 99.2505 81.4705) (end 99.2505 84.328) (width 0.3) (layer F.Cu) (net 2) (tstamp 589421E8))
+  (segment (start 99.2505 84.328) (end 101.479974 86.557474) (width 0.3) (layer F.Cu) (net 2) (tstamp 589421EC) (status 800000))
+  (segment (start 101.479974 86.557474) (end 101.482721 86.557474) (width 0.25) (layer F.Cu) (net 2) (tstamp 589421F0) (status C00000))
   (segment (start 90.0684 72.9361) (end 90.0684 73.2282) (width 0.25) (layer F.Cu) (net 2))
   (segment (start 90.0684 73.2282) (end 90.198965 73.358765) (width 0.25) (layer F.Cu) (net 2) (tstamp 588B2068))
   (segment (start 87.249 77.724) (end 87.249 78.105) (width 0.3) (layer F.Cu) (net 2) (tstamp 588200AC))
