@@ -7,5 +7,5 @@
   (lib (name "pin socket")(type KiCad)(uri C:\KiCad\share\library\w_pin_strip.pretty)(options "")(descr ""))
   (lib (name Jumper)(type KiCad)(uri C:\Users\exploreembedded\Downloads\mod_details\w_details.pretty)(options "")(descr ""))
   (lib (name "SMD tactile")(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty\\4pinsmdswitch.pretty")(options "")(descr ""))
-  (lib (name Hornbill)(type KiCad)(uri "H:\\Github\\Hornbill-ESP32-DEV - Copy\\Design Files\\Kicad File\\Hornbill.pretty")(options "")(descr ""))
+  (lib (name Hornbill)(type KiCad)(uri "H:\\Github\\Hornbill-ESP32-DEV\\Design Files\\Kicad File\\Hornbill.pretty")(options "")(descr ""))
 )

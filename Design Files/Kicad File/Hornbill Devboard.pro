@@ -1,4 +1,4 @@
-update=1/21/2017 11:31:50 AM
+update=4/8/2017 5:08:27 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=../Schematic/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -62,13 +72,5 @@ LibName30=valves
 LibName31=C:/KiCad/share/library/IRLML5203
 LibName32=D:/Github/Explore-M3-Hardware-Design-/Hardware Design Files/ExploreM3
 LibName33=C:/KiCad/share/library/microchip-technology
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=../Schematic/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName34=H:/PCB_Designes/Hornbill Dev/Hornbill-ESP32-DEV-c9c9976e8e6bd05e2129e099c5f8141dffc299d9/Design Files/Kicad File/Hornbill Devboard-cache
+LibName35=Hornbill Devboard-cache
