@@ -1,4 +1,4 @@
-update=4/8/2017 5:08:27 PM
+update=4/10/2017 12:37:46 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -72,5 +72,4 @@ LibName30=valves
 LibName31=C:/KiCad/share/library/IRLML5203
 LibName32=D:/Github/Explore-M3-Hardware-Design-/Hardware Design Files/ExploreM3
 LibName33=C:/KiCad/share/library/microchip-technology
-LibName34=H:/PCB_Designes/Hornbill Dev/Hornbill-ESP32-DEV-c9c9976e8e6bd05e2129e099c5f8141dffc299d9/Design Files/Kicad File/Hornbill Devboard-cache
-LibName35=Hornbill Devboard-cache
+LibName34=H:/PCB_Designes/Devolopment Boards/Starter_AVR_USB/Starter_AVR_USB/Starter_AVR-cache
