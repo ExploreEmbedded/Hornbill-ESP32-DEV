@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "H:/Github/Hornbill-ESP32-DEV/Design Files/Kicad File/Hornbill Devboard.sch")
-    (date "4/10/2017 4:52:55 PM")
+    (date "4/27/2017 3:37:05 PM")
     (tool "Eeschema 4.0.5")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -95,7 +95,7 @@
       (tstamp 58374A6B))
     (comp (ref D1)
       (value BAT20J)
-      (footprint Hornbill:SOD-80_diode)
+      (footprint Hornbill:SOD-80_diode_1)
       (libsource (lib "Hornbill Devboard-cache") (part ZENER))
       (sheetpath (names /) (tstamps /))
       (tstamp 5837697A))
@@ -626,12 +626,12 @@
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib"))
     (library (logical transistors)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\transistors.lib"))
-    (library (logical "Hornbill Devboard-cache")
-      (uri "H:\\Github\\Hornbill-ESP32-DEV\\Design Files\\Kicad File\\Hornbill Devboard-cache.lib"))
     (library (logical conn)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\conn.lib"))
     (library (logical Starter_AVR-cache)
-      (uri "H:\\PCB_Designes\\Devolopment Boards\\Starter_AVR_USB\\Starter_AVR_USB\\Starter_AVR-cache.lib")))
+      (uri "H:\\PCB_Designes\\Devolopment Boards\\Starter_AVR_USB\\Starter_AVR_USB\\Starter_AVR-cache.lib"))
+    (library (logical "Hornbill Devboard-cache")
+      (uri "H:\\Github\\Hornbill-ESP32-DEV\\Design Files\\Kicad File\\Hornbill Devboard-cache.lib")))
   (nets
     (net (code 1) (name /IO34)
       (node (ref P2) (pin 5))

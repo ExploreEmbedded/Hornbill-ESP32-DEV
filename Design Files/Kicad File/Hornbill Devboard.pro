@@ -1,4 +1,4 @@
-update=4/10/2017 12:37:46 PM
+update=4/24/2017 2:48:01 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=../Schematic/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -73,3 +63,13 @@ LibName31=C:/KiCad/share/library/IRLML5203
 LibName32=D:/Github/Explore-M3-Hardware-Design-/Hardware Design Files/ExploreM3
 LibName33=C:/KiCad/share/library/microchip-technology
 LibName34=H:/PCB_Designes/Devolopment Boards/Starter_AVR_USB/Starter_AVR_USB/Starter_AVR-cache
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=../Schematic/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
