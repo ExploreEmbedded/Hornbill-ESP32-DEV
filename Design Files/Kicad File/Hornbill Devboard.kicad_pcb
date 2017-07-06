@@ -3,7 +3,7 @@
   (general
     (links 121)
     (no_connects 0)
-    (area 77.267999 67.234999 102.818001 128.218001)
+    (area 73.639388 64.176477 106.466055 128.218001)
     (thickness 1.6)
     (drawings 63)
     (tracks 1025)
@@ -37,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 0.635)
+    (last_trace_width 0.25)
     (user_trace_width 0.15)
     (user_trace_width 0.2)
     (user_trace_width 0.3)
@@ -2506,7 +2506,7 @@
   (gr_text RST (at 96.1644 98.7044) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.2)))
   )
-  (gr_text v0.4 (at 94.234 69.596) (layer B.SilkS)
+  (gr_text "v1.0\n" (at 94.234 69.596) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_text 23 (at 79.502 115.8748 324) (layer F.SilkS)
